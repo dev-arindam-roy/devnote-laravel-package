@@ -41,6 +41,7 @@ php artisan vendor:publish --provider="CreativeSyntax\DevNote\DevNoteServiceProv
 
 php artisan vendor:publish --tag=devnote-assets --force
 ```
+![2023-05-27_132203](https://github.com/dev-arindam-roy/devnote-laravel-package/assets/24665327/e124c732-6916-46ad-a79d-eedbd94a5639)
 
 ## Purpose/Benefit of it - 
 As a developer, if you working on multiple project then it dificult to manage or remember task/todos 
